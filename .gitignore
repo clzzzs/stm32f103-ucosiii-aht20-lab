@@ -1,0 +1,20 @@
+# Keil build outputs
+*.o
+*.d
+*.crf
+*.lst
+*.axf
+*.map
+*.lnp
+*.dep
+*.htm
+*.sct
+*.uvguix.*
+*.build_log.htm
+
+# Keep HEX files
+!*.hex
+
+# OS / editor
+Thumbs.db
+.DS_Store
